@@ -27,6 +27,8 @@ This project was built as part of my learning journey to understand:
 - JavaScript
 
 ---
+## Live Demo
+https://devashree-sawant.github.io/spotify-clone/
 
 ## 📸 Screenshots
 (Add screenshots here later)
@@ -50,3 +52,4 @@ This project was built by following a guided tutorial and then extended with:
 
 ## 🙋‍♀️ Author
 Devashree
+
